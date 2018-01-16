@@ -1,0 +1,675 @@
+Starting IMACS Policy Batch Jobs for RBS 
+Started on :+Thu 1 Jan 21:00:00 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Clearing eventlog and locking...
+Starting DOCANCELPOLICY
+Thu 1 Jan 21:07:36 2015+:Starting - Do Cancel Policy RBS 
+Thu 1 Jan 21:07:49 2015+:Completed - Do Cancel Policy RBS
+Starting FORMATIONMAILMERGEEXTRACT
+Thu 1 Jan 21:12:50 2015+:Starting - Imacs Formation Mail Merge Extract
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:12:52 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:12:52 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:12:52 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:12:52 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:52 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:52 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:52 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:52 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:53 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:56 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:12:57 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:13:08 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:13:09 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:13:09 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:09 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:12 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:13:24 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:13:24 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:13:24 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:13:24 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:24 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:24 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:24 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:24 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:28 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:13:39 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:13:39 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:13:39 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:13:39 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:39 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:39 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:39 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:39 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:43 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:13:54 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:13:55 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:13:55 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:57 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:13:58 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:14:09 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:14:09 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:14:09 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:10 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:12 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:13 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:14:24 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:14:24 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:14:24 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:25 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:27 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:28 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:14:39 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:14:39 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:14:39 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:40 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:42 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:43 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:14:54 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:14:54 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:14:54 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:14:55 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Jan-2015 21:15:07 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:15:07 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:15:07 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:15:07 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:07 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:07 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:15:08 null null
+SEVERE: javaAccessorNotSet
+  adding: CPILTRSE.D010115.T211518 (deflated 66%)
+  adding: CPILTRSG.D010115.T211518 (deflated 51%)
+Thu 1 Jan 21:15:18 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java5/jre/bin:/usr/java5/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan  1 11:13 Archive
+-rw-rw-rw-   1 user     group        3504 Jan  1 06:30 CLMLTRS.D010115.T063008.wrk
+-rw-rw-rw-   1 user     group         248 Jan  1 06:40 CLMLTRS.D010115.T064023.wrk
+-rw-rw-rw-   1 user     group       51760 Jan  1 21:15 CPILTRSE.D010115.T211518.wrk
+-rw-rw-rw-   1 user     group        1160 Jan  1 21:15 CPILTRSG.D010115.T211518.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan  1 04:03 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Oct 14  2013 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Dec 31  2014 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       83600 Jan  1 02:03 NUUK001_D01012015.T020311
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Dec 31  2014 RBS_Claims
+drwxrw-rw-   1 user     group           0 Dec 31  2014 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Dec 16  2014 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group       10536 Jan  1 02:42 UWRBE001_D01012015.T024231
+-rw-rw-rw-   1 user     group        3752 Jan  1 04:02 UWRBE001_D01012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan  1 02:37 UWRES001_D01012015.T023643
+-rw-rw-rw-   1 user     group       91008 Jan  1 02:37 UWRES001_D01012015.T023716
+-rw-rw-rw-   1 user     group         232 Jan  1 02:47 UWRFR001_D01012015.T024735
+-rw-rw-rw-   1 user     group         552 Jan  1 02:47 UWRFR001_D01012015.T024736
+-rw-rw-rw-   1 user     group         232 Jan  1 02:31 UWRIR001_D01012015.T023134
+-rw-rw-rw-   1 user     group       12624 Jan  1 02:31 UWRIR001_D01012015.T023139
+-rw-rw-rw-   1 user     group          54 Jan  1 02:02 UWRLIST1_D010115.T020252
+-rw-rw-rw-   1 user     group           0 Jan  1 02:21 UWRLIST1_D010115.T022129
+-rw-rw-rw-   1 user     group           0 Jan  1 02:26 UWRLIST1_D010115.T022631
+-rw-rw-rw-   1 user     group          54 Jan  1 02:31 UWRLIST1_D010115.T023140
+-rw-rw-rw-   1 user     group          54 Jan  1 02:37 UWRLIST1_D010115.T023724
+-rw-rw-rw-   1 user     group          27 Jan  1 02:42 UWRLIST1_D010115.T024232
+-rw-rw-rw-   1 user     group          54 Jan  1 02:47 UWRLIST1_D010115.T024736
+-rw-rw-rw-   1 user     group          27 Jan  1 04:02 UWRLIST1_D010115.T040234
+-rw-rw-rw-   1 user     group         688 Jan  1 02:02 UWRNL001_D01012015.T020232
+-rw-rw-rw-   1 user     group       42832 Jan  1 02:02 UWRNL001_D01012015.T020247
+-rw-rw-rw-   1 user     group       17944 Jan  1 04:00 UWRPT001_D01012015.T040016
+-rw-rw-rw-   1 user     group        4632 Jan  1 04:03 UWRSE001_D01012015.T040258
+-rw-rw-rw-   1 user     group         361 Jun 23  2014 deleteAEGzip.bat
+bye
+Thu 1 Jan 21:15:19 2015+:Finish Uploading to INCDirect Script
+Thu 1 Jan 21:15:19 2015+:Completed - Imacs Formation Mail Merge Extract
+Starting CLAIMSDOMAILMERGERBSUK
+Thu 1 Jan 21:20:22 2015+:Starting - Do Claims Mail Merge for RBSUK 
+Thu 1 Jan 21:24:39 2015+:Completed - Do Claims Mail Merge for RBS UK
+Starting CLAIMSMAILMERGEEXTRACTRBSUK
+Thu 1 Jan 21:29:40 2015+:Starting - Claims Mail Merge Extract for RBSUK
+  adding: CLMLTRS.D010115.T212941 (deflated 73%)
+Thu 1 Jan 21:29:44 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java5/jre/bin:/usr/java5/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan  1 11:13 Archive
+-rw-rw-rw-   1 user     group        3504 Jan  1 06:30 CLMLTRS.D010115.T063008.wrk
+-rw-rw-rw-   1 user     group         248 Jan  1 06:40 CLMLTRS.D010115.T064023.wrk
+-rw-rw-rw-   1 user     group        3656 Jan  1 21:29 CLMLTRS.D010115.T212941.wrk
+-rw-rw-rw-   1 user     group       51760 Jan  1 21:15 CPILTRSE.D010115.T211518.wrk
+-rw-rw-rw-   1 user     group        1160 Jan  1 21:15 CPILTRSG.D010115.T211518.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan  1 04:03 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Oct 14  2013 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Dec 31  2014 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       83600 Jan  1 02:03 NUUK001_D01012015.T020311
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Dec 31  2014 RBS_Claims
+drwxrw-rw-   1 user     group           0 Dec 31  2014 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Dec 16  2014 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group       10536 Jan  1 02:42 UWRBE001_D01012015.T024231
+-rw-rw-rw-   1 user     group        3752 Jan  1 04:02 UWRBE001_D01012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan  1 02:37 UWRES001_D01012015.T023643
+-rw-rw-rw-   1 user     group       91008 Jan  1 02:37 UWRES001_D01012015.T023716
+-rw-rw-rw-   1 user     group         232 Jan  1 02:47 UWRFR001_D01012015.T024735
+-rw-rw-rw-   1 user     group         552 Jan  1 02:47 UWRFR001_D01012015.T024736
+-rw-rw-rw-   1 user     group         232 Jan  1 02:31 UWRIR001_D01012015.T023134
+-rw-rw-rw-   1 user     group       12624 Jan  1 02:31 UWRIR001_D01012015.T023139
+-rw-rw-rw-   1 user     group          54 Jan  1 02:02 UWRLIST1_D010115.T020252
+-rw-rw-rw-   1 user     group           0 Jan  1 02:21 UWRLIST1_D010115.T022129
+-rw-rw-rw-   1 user     group           0 Jan  1 02:26 UWRLIST1_D010115.T022631
+-rw-rw-rw-   1 user     group          54 Jan  1 02:31 UWRLIST1_D010115.T023140
+-rw-rw-rw-   1 user     group          54 Jan  1 02:37 UWRLIST1_D010115.T023724
+-rw-rw-rw-   1 user     group          27 Jan  1 02:42 UWRLIST1_D010115.T024232
+-rw-rw-rw-   1 user     group          54 Jan  1 02:47 UWRLIST1_D010115.T024736
+-rw-rw-rw-   1 user     group          27 Jan  1 04:02 UWRLIST1_D010115.T040234
+-rw-rw-rw-   1 user     group         688 Jan  1 02:02 UWRNL001_D01012015.T020232
+-rw-rw-rw-   1 user     group       42832 Jan  1 02:02 UWRNL001_D01012015.T020247
+-rw-rw-rw-   1 user     group       17944 Jan  1 04:00 UWRPT001_D01012015.T040016
+-rw-rw-rw-   1 user     group        4632 Jan  1 04:03 UWRSE001_D01012015.T040258
+-rw-rw-rw-   1 user     group         361 Jun 23  2014 deleteAEGzip.bat
+bye
+Thu 1 Jan 21:29:44 2015+:Finish Uploading to INCDirect Script
+Thu 1 Jan 21:29:44 2015+:Start Uploading to Profusion Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java5/jre/bin:/usr/java5/bin:/usr/local/bin
+drwx------  carphonewh/carphonewh 16384 2015-01-01 21:31:59 .
+drwxrwxrwx  carphonewh/carphonewh 80 2014-12-02 13:59:08 ..
+-rw-rw-rw-  carphonewh/carphonewh 3656 2015-01-01 21:31:59 CLMLTRS.D010115.T212941.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8768 2014-12-01 21:29:55 CLMLTRS.D011214.T212948.wrk
+-rw-rw-rw-  carphonewh/carphonewh 10232 2014-12-02 21:31:02 CLMLTRS.D021214.T213051.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8464 2014-12-03 21:30:44 CLMLTRS.D031214.T213030.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8160 2014-12-04 21:30:53 CLMLTRS.D041214.T213034.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7112 2014-12-05 21:30:27 CLMLTRS.D051214.T213004.wrk
+-rw-rw-rw-  carphonewh/carphonewh 4344 2014-12-06 21:30:15 CLMLTRS.D061214.T212948.wrk
+-rw-rw-rw-  carphonewh/carphonewh 4528 2014-12-07 21:29:22 CLMLTRS.D071214.T212851.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8288 2014-12-08 21:31:28 CLMLTRS.D081214.T213052.wrk
+-rw-rw-rw-  carphonewh/carphonewh 9048 2014-12-09 21:31:58 CLMLTRS.D091214.T213118.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7632 2014-12-10 21:31:03 CLMLTRS.D101214.T213018.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7048 2014-12-11 21:30:42 CLMLTRS.D111214.T212954.wrk
+-rw-rw-rw-  carphonewh/carphonewh 6616 2014-12-12 21:30:59 CLMLTRS.D121214.T213006.wrk
+-rw-rw-rw-  carphonewh/carphonewh 2880 2014-12-13 21:29:44 CLMLTRS.D131214.T212848.wrk
+-rw-rw-rw-  carphonewh/carphonewh 3040 2014-12-14 21:29:48 CLMLTRS.D141214.T212847.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8952 2014-12-15 21:31:40 CLMLTRS.D151214.T213034.wrk
+-rw-rw-rw-  carphonewh/carphonewh 9496 2014-12-16 21:31:51 CLMLTRS.D161214.T213039.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8776 2014-12-17 21:31:51 CLMLTRS.D171214.T213037.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7848 2014-12-18 21:31:38 CLMLTRS.D181214.T213019.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7856 2014-12-19 21:32:24 CLMLTRS.D191214.T213100.wrk
+-rw-rw-rw-  carphonewh/carphonewh 4896 2014-12-20 21:31:03 CLMLTRS.D201214.T212936.wrk
+-rw-rw-rw-  carphonewh/carphonewh 3768 2014-12-21 21:30:23 CLMLTRS.D211214.T212852.wrk
+-rw-rw-rw-  carphonewh/carphonewh 9176 2014-12-22 21:32:20 CLMLTRS.D221214.T213044.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7696 2014-12-23 21:32:10 CLMLTRS.D231214.T213029.wrk
+-rw-rw-rw-  carphonewh/carphonewh 6080 2014-12-24 21:31:36 CLMLTRS.D241214.T212952.wrk
+-rw-rw-rw-  carphonewh/carphonewh 672 2014-12-25 21:30:13 CLMLTRS.D251214.T212826.wrk
+-rw-rw-rw-  carphonewh/carphonewh 2688 2014-12-26 21:30:12 CLMLTRS.D261214.T212820.wrk
+-rw-rw-rw-  carphonewh/carphonewh 4648 2014-12-27 21:31:07 CLMLTRS.D271214.T212911.wrk
+-rw-rw-rw-  carphonewh/carphonewh 5360 2014-12-28 21:30:56 CLMLTRS.D281214.T212854.wrk
+-rw-rw-rw-  carphonewh/carphonewh 8800 2014-12-29 21:31:56 CLMLTRS.D291214.T212950.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7472 2014-12-30 21:32:39 CLMLTRS.D301214.T213028.wrk
+-rw-rw-rw-  carphonewh/carphonewh 7872 2014-12-31 21:32:34 CLMLTRS.D311214.T213020.wrk
+bye
+Thu 1 Jan 21:29:45 2015+:Finish Uploading to Profusion  Script
+Summary Report File to be mailed:  SUMMARY.010115.T212941
+Thu 1 Jan 21:29:45 2015+:Completed - Imacs Formation Mail Merge Extract for RBSUK
+Starting GENERATEFSAREPORTRBSUK
+Thu 1 Jan 21:34:45 2015+:Starting . Report Batch Users RBSUK 
+Thu 1 Jan 21:35:07 2015+:Completed - Report Batch Users for RBSUK 
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+log4j:ERROR setFile(null,true) call failed.
+java.io.FileNotFoundException: ../log/imacs-server.log (A file or directory in the path name does not exist.)
+	at java.io.FileOutputStream.openAppend(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:177)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:102)
+	at org.apache.log4j.FileAppender.setFile(FileAppender.java:272)
+	at org.apache.log4j.RollingFileAppender.setFile(RollingFileAppender.java:156)
+	at org.apache.log4j.FileAppender.activateOptions(FileAppender.java:151)
+	at org.apache.log4j.config.PropertySetter.activate(PropertySetter.java:247)
+	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:123)
+	at org.apache.log4j.config.PropertySetter.setProperties(PropertySetter.java:87)
+	at org.apache.log4j.PropertyConfigurator.parseAppender(PropertyConfigurator.java:645)
+	at org.apache.log4j.PropertyConfigurator.parseCategory(PropertyConfigurator.java:603)
+	at org.apache.log4j.PropertyConfigurator.parseCatsAndRenderers(PropertyConfigurator.java:524)
+	at org.apache.log4j.PropertyConfigurator.doConfigure(PropertyConfigurator.java:408)
+	at uk.co.isesolutions.util.log.IseLogger.configure(IseLogger.java:183)
+	at uk.co.isesolutions.util.log.IseLogger.getDefaultConfiguration(IseLogger.java:137)
+	at uk.co.isesolutions.util.log.IseLogger.<init>(IseLogger.java:109)
+	at uk.co.isesolutions.util.log.LogWriter.<clinit>(LogWriter.java:63)
+	at java.lang.J9VMInternals.initializeImpl(Native Method)
+	at java.lang.J9VMInternals.initialize(J9VMInternals.java:200)
+	at uk.co.gis.apps.imacs.FSA.batch.modules.GenerateFSAReport.main(GenerateFSAReport.java:64)
+01-Jan-2015 21:34:47 null null
+WARNING: security.JSAS0631E
+01-Jan-2015 21:34:47 null null
+SEVERE: security.JSAS0629E
+01-Jan-2015 21:34:47 null null
+SEVERE: security.JSAS1478W
+01-Jan-2015 21:34:47 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:34:48 null null
+SEVERE: javaAccessorNotSet
+01-Jan-2015 21:34:48 null null
+SEVERE: javaAccessorNotSet
+Starting UPDATEFPPAYMENTSRBS
+Thu 1 Jan 21:42:38 2015+:Starting - UpdateFPPayments_RBS.sh 
+0
+Thu 1 Jan 21:43:01 2015+:Completed - UpdateFPPayments_RBS.sh 
+Starting UPDATEINVOICEPAYMENTSRBS
+Thu 1 Jan 21:48:02 2015+:Starting - UpdateInvoicePayments_RBS.sh 
+0
+Thu 1 Jan 21:49:07 2015+:Completed - UpdateInvoicePayments_RBS.sh 
+Starting DOPCSTATUSUPDATERBSUK
+Thu 1 Jan 21:54:07 2015+:Starting - Do PC Status Update for RBSUK
+Thu 1 Jan 21:54:11 2015+:Completed - Do PC Status Update for RBS
+------------------------------------------------
+RBS Batch Run Completed
+Finished on :+Thu 1 Jan 21:56:41 2015

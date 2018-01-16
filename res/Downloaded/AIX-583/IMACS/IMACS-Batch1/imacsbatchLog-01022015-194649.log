@@ -1,0 +1,1198 @@
+Starting IMACS Policy Batch Jobs
+Started on :+Fri Apr 3 16:40:00 BST 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Clearing eventlog and locking...
+Starting REFUNDSUK
+Fri Apr 3 16:47:35 BST 2015+:Starting - Refunds UK
+Starting DOPOLICYRENEWALNL
+Fri Apr 3 16:52:35 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 16:52:35 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALUK
+Fri Apr 3 17:00:05 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 17:00:06 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALIRL
+Fri Apr 3 17:07:35 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 17:07:36 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALES
+Fri Apr 3 17:15:05 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 17:15:06 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALBE
+Fri Apr 3 17:22:35 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 17:22:36 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALFR
+Fri Apr 3 17:30:06 BST 2015+:Starting - Do Policy Renewal
+Fri Apr 3 17:30:06 BST 2015+:Completed - Do Policy Renewal
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPolicyRenewal
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDCOMMISSIONNL
+Fri Apr 3 17:37:36 BST 2015+:Starting - Create DD Commission - NL
+Fri Apr 3 17:37:36 BST 2015+:Completed - Create DD Commission - NL
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDCommissionForNL
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDCommissionForNL
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSNL
+Fri Apr 3 17:45:06 BST 2015+:Starting - Update DD Payment - NL
+Fri Apr 3 17:45:06 BST 2015+:Completed - Update DD Payment - NL
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSUK
+Fri Apr 3 17:52:36 BST 2015+:Starting - Update DD Payment
+Fri Apr 3 17:52:36 BST 2015+:Completed - Update DD Payment
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSIRL
+Fri Apr 3 18:00:06 BST 2015+:Starting - Update DD Payment
+Fri Apr 3 18:00:06 BST 2015+:Completed - Update DD Payment
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSES
+Fri Apr 3 18:07:36 BST 2015+:Starting - Update DD Payment
+Fri Apr 3 18:07:37 BST 2015+:Completed - Update DD Payment
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSBE
+Fri Apr 3 18:15:06 BST 2015+:Starting - Update DD Payment
+Fri Apr 3 18:15:07 BST 2015+:Completed - Update DD Payment
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEDDPAYMENTSFR
+Fri Apr 3 18:22:36 BST 2015+:Starting - Update DD Payment
+Fri Apr 3 18:22:37 BST 2015+:Completed - Update DD Payment
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.UpdateDDPayments
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting UPDATEFPPAYMENTSNL
+Fri Apr 3 18:30:06 BST 2015+:Starting - UpdateFPPayments_NL.sh 
+0
+Fri Apr 3 18:39:47 BST 2015+:Completed - UpdateFPPayments_NL.sh 
+Starting UPDATEFPPAYMENTSBE
+Fri Apr 3 18:44:47 BST 2015+:Starting - UpdateFPPayments_BE.sh 
+0
+Fri Apr 3 18:54:30 BST 2015+:Completed - UpdateFPPayments_BE.sh 
+Starting UPDATEFPPAYMENTSUK
+Fri Apr 3 18:59:30 BST 2015+:Starting - UpdateFPPayments_UK.sh 
+0
+Fri Apr 3 19:09:53 BST 2015+:Completed - UpdateFPPayments_UK.sh 
+Starting DOCANCELPOLICY
+Fri Apr 3 19:14:52 BST 2015+:Starting - Do Cancel Policy
+Fri Apr 3 19:14:53 BST 2015+:Completed - Do Cancel Policy
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoCancelPolicy
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoCancelPolicy
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATENL
+Fri Apr 3 19:22:23 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:22:23 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEUK
+Fri Apr 3 19:29:53 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:29:54 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEIRL
+Fri Apr 3 19:37:24 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:37:24 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEES
+Fri Apr 3 19:44:54 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:44:54 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEFR
+Fri Apr 3 19:52:24 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:52:24 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEBE
+Fri Apr 3 19:59:54 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 19:59:54 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDADDACSRESPONSEUK
+Fri Apr 3 20:07:24 BST 2015+:Starting - Receive UK DD ADDACS Responses
+Fri Apr 3 20:07:25 BST 2015+:Completed - Receive UK DD ADDACS Responses
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDADDACSResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDADDACSResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDSETUPREQUESTSNL
+Fri Apr 3 20:14:54 BST 2015+:Starting - Create NL DD Setup Requests
+Fri Apr 3 20:14:55 BST 2015+:Completed - Create NL DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDSETUPRESPONSEUK
+Fri Apr 3 20:22:24 BST 2015+:Starting - Receive UK DD Setup Responses
+Fri Apr 3 20:22:25 BST 2015+:Completed - Receive UK DD Setup Responses
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDSetUpRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDSetUpRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDPAYMENTRESPONSEUK
+Fri Apr 3 20:30:07 BST 2015+:Starting - Receive UK DD Payment Responses
+File list -->  'DDPAYRESUK08112013.txt'
+********** ERROR: One of the file is not present from the file list please check **********
+Fri Apr 3 20:30:09 BST 2015+:Completed - Receive UK DD Payment Responses
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting REPORTUNPROCREJECTIONSUK
+Fri Apr 3 20:38:20 BST 2015+:Starting - Report Unprocessed Rejections
+Fri Apr 3 20:39:01 BST 2015+:Completed - Report Unprocessed Rejections
+Starting RECEIVEDDPAYMENTRESPONSEIRL
+Fri Apr 3 20:44:01 BST 2015+:Starting - Receive IRL DD Payment Responses
+Fri Apr 3 20:44:02 BST 2015+:Completed - Receive IRL DD Payment Responses
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDPAYMENTRESPONSEES
+Fri Apr 3 20:51:31 BST 2015+:Starting - Receive ES DD Payment Responses
+Fri Apr 3 20:51:32 BST 2015+:Completed - Receive ES DD Payment Responses
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDPAYMENTRESPONSEFR
+Fri Apr 3 20:59:01 BST 2015+:Starting - Receive FR DD Payment Responses
+Fri Apr 3 20:59:02 BST 2015+:Completed - Receive FR DD Payment Responses
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting BERUNDOMLOADER
+Fri Apr 3 21:06:31 BST 2015+:Starting - Run DOM Loader
+Fri Apr 3 21:06:32 BST 2015+:Completed -  Run DOM Loader
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.gis.imacs.loaders.BEDomLoader
+Caused by: java.lang.ClassNotFoundException: uk.co.gis.imacs.loaders.BEDomLoader
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting RECEIVEDDPAYMENTRESPONSEBE
+Fri Apr 3 21:14:01 BST 2015+:Starting - Receive BE DD Payment Responses
+Fri Apr 3 21:14:02 BST 2015+:Completed - Receive BE DD Payment Responses
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.ReceiveDDPaymentRequestsResponse
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting BEDDDUEPAYMENTRPT
+Fri Apr 3 21:21:32 BST 2015+:Starting - BE DD Due Payment Report
+Fri Apr 3 21:21:32 BST 2015+:Not Allowed to run - Call me with the days parameter
+Starting CREATEDDPAYMENTREQUESTSBE
+Initialising Environment...
+Fri Apr 3 21:26:32 BST 2015+:Starting - Main Create BE DD Payment Requests 
+
+ENABLED=T
+
+0 rows deleted.
+
+
+Commit complete.
+
+BEGIN
+*
+ERROR at line 1:
+ORA-01422: exact fetch returns more than requested number of rows
+ORA-06512: at "IMACS.K_DIRECT_DEBIT_BATCH", line 1899
+ORA-06512: at line 2
+
+
+SORT_CODE,ACCOUNTNO,EXTERNAL_REF,CUSTOMER,POLICYCOVER
+Fri Apr 3 21:26:33 BST 2015+:Completed - Main Create BE DD Payment Requests
+Starting CREATEDDPMTBETST
+Fri Apr 3 21:31:32 BST 2015+:Starting - Main Create BE DD Test Bank file 
+
+ENABLED=T
+Fri Apr 3 21:32:29 BST 2015+:Completed - Main Create BE DD Test Bank file
+ls: 0653-345 /opt/app/imacs-was/lib/*.jar: Permission denied.
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+mv: 0653-401 Cannot rename /app/imacs-was/share/dd/payment/be/outgoing/* to /app/imacs-was/share/dd/payment/be/archive/*:
+             A file or directory in the path name does not exist.
+Exception in thread "main" java.lang.NoClassDefFoundError: BankFileGenerator
+Caused by: java.lang.ClassNotFoundException: BankFileGenerator
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDPMTBELIV
+Fri Apr 3 21:39:59 BST 2015+:Starting - Main Create BE DD Live Bank file 
+
+ENABLED=T
+Fri Apr 3 21:39:59 BST 2015+:Completed - Main Create BE DD Live Bank file
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+mv: 0653-401 Cannot rename /app/imacs-was/share/dd/payment/be/outgoing/* to /app/imacs-was/share/dd/payment/be/archive/*:
+             A file or directory in the path name does not exist.
+Exception in thread "main" java.lang.NoClassDefFoundError: BankFileGenerator
+Caused by: java.lang.ClassNotFoundException: BankFileGenerator
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDSETUPREQUESTSUK
+Fri Apr 3 21:57:29 BST 2015+:Starting - Create UK DD Setup Requests
+030415
+030415_215730
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415.csv
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415_215730.csv
+Fri Apr 3 21:57:30 BST 2015+:Completed - Create UK DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDSETUPREQUESTSUK
+Fri Apr 3 22:04:59 BST 2015+:Starting - Create UK DD Setup Requests
+030415
+030415_220500
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415.csv
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415_220500.csv
+Fri Apr 3 22:05:00 BST 2015+:Completed - Create UK DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDSETUPREQUESTSUK
+Fri Apr 3 22:12:30 BST 2015+:Starting - Create UK DD Setup Requests
+030415
+030415_221230
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415.csv
+/app/imacs-was/share/dd/setup/uk/outgoing/DDSetup_invalid_030415_221230.csv
+Fri Apr 3 22:12:30 BST 2015+:Completed - Create UK DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDPAYMENTREQUESTSUK
+Using sleep time: CREATEDDPAYMENTREQUESTSUK
+Fri Apr 3 22:20:00 BST 2015+:Starting - Main Create UK DD Payment Requests 
+Fri Apr 3 22:20:00 BST 2015+:Starting - Create UK DD Payment Requests 
+03042015_222000
+
+1 row deleted.
+
+
+0 rows deleted.
+
+
+Commit complete.
+
+
+Calling k_direct_debit_batch.p_start_batch_process
+
+
+End of k_direct_debit_batch Processing
+
+Fri Apr 3 22:23:23 BST 2015+:Completed - Create UK DD Payment Requests
+Starting CREATEDDSETUPREQUESTSIRL
+Fri Apr 3 22:28:23 BST 2015+:Starting - Create IRL DD Setup Requests
+Fri Apr 3 22:28:23 BST 2015+:Completed - Create IRL DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateUKDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDPAYMENTREQUESTSIE
+Using sleep time: CREATEDDPAYMENTREQUESTSIE
+Fri Apr 3 22:35:53 BST 2015+:Starting - Create DD Payment Requests - IE
+Fri Apr 3 22:36:29 BST 2015+:Completed - Create DD Payment Requests - IE
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: com.gis.arch.batch.modules.CreateDDPaymentRequestsForUK
+Caused by: java.lang.ClassNotFoundException: com.gis.arch.batch.modules.CreateDDPaymentRequestsForUK
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+ls: 0653-341 The file DDPayment*.* does not exist.
+Can't open /app/imacs-was/share/dd/payment/ie/outgoing/DDPayment*.*: A file or directory in the path name does not exist..
+ls: 0653-341 The file /app/imacs-was/share/dd/payment/ie/outgoing/DDPayment*.* does not exist.
+Fri Apr 3 22:41:29 BST 2015+:Starting - Add DD Mandates
+
+SQL*Plus: Release 11.2.0.3.0 Production on Fri Apr 3 22:41:29 2015
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+
+PL/SQL procedure successfully completed.
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+Fri Apr 3 22:50:24 BST 2015+:Completed - Add DD Mandates
+Starting CREATEDDSETUPREQUESTSFR
+Fri Apr 3 22:52:54 BST 2015+:Starting - Create FR DD Setup Requests
+Fri Apr 3 22:52:55 BST 2015+:Completed - Create FR DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CREATEDDSETUPREQUESTSBE
+Fri Apr 3 23:00:24 BST 2015+:Starting - Create BE DD Setup Requests
+Fri Apr 3 23:00:25 BST 2015+:Completed - Create BE DD Setup Requests
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.directdebit.CreateDDSetUpRequests
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATENL
+Fri Apr 3 23:07:55 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:07:55 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEUK
+Fri Apr 3 23:15:25 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:15:25 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEIRL
+Fri Apr 3 23:22:55 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:22:56 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEES
+Fri Apr 3 23:30:25 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:30:26 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEBE
+Fri Apr 3 23:37:55 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:37:56 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPCSTATUSUPDATEFR
+Fri Apr 3 23:45:25 BST 2015+:Starting - Do PC Status Update
+Fri Apr 3 23:45:26 BST 2015+:Completed - Do PC Status Update
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoPCStatusUpdate
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting ALLOCATECOMMISSIONPIENL
+/app/imacs-was
+Fri Apr 3 23:52:56 BST 2015+:Starting - Allocate Commission (PIE)
+Fri Apr 3 23:52:56 BST 2015+:Completed - Allocate Commission (PIE)
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting ALLOCATECOMMISSIONPIEUK
+Sat Apr 4 00:00:26 BST 2015+:Starting - Allocate Commission (PIE)
+Sat Apr 4 00:00:27 BST 2015+:Completed - Allocate Commission (PIE)
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting ALLOCATECOMMISSIONPIEIRL
+Sat Apr 4 00:07:57 BST 2015+:Starting - Allocate Commission (PIE)
+Sat Apr 4 00:07:57 BST 2015+:Completed - Allocate Commission (PIE)
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting ALLOCATECOMMISSIONPIEBE
+Sat Apr 4 00:15:27 BST 2015+:Starting - Allocate Commission (PIE)
+Sat Apr 4 00:15:28 BST 2015+:Completed - Allocate Commission (PIE)
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.commissionreport.AllocateCommission
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOUPDATESPLITS
+Sat Apr 4 00:22:58 BST 2015+:Starting - Do Update Splits
+Sat Apr 4 00:22:58 BST 2015+:Completed - Do Update Splits
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.splits.DoUpdateSplits
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.splits.DoUpdateSplits
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOUPDATESPLITSIRL
+Sat Apr 4 00:30:28 BST 2015+:Starting - Do Update Splits
+Sat Apr 4 00:30:29 BST 2015+:Completed - Do Update Splits
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.splits.DoUpdateSplits
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.splits.DoUpdateSplits
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOEXPIREPOLICY
+Sat Apr 4 00:37:58 BST 2015+:Starting - Do Expire Policy
+Sat Apr 4 00:37:59 BST 2015+:Completed - Do Expire Policy
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoExpirePolicy
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoExpirePolicy
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGEUK
+Sat Apr 4 00:45:29 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 00:45:29 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGEES
+Sat Apr 4 00:52:59 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 00:52:59 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGEBE
+Sat Apr 4 01:00:29 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 01:00:29 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGEFR
+Sat Apr 4 01:07:59 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 01:08:00 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGEIRL
+Sat Apr 4 01:15:29 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 01:15:30 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOPOLICYRENEWALEXCHANGENL
+Sat Apr 4 01:22:59 BST 2015+:Starting - Do Policy Renewal Exchange
+Sat Apr 4 01:23:00 BST 2015+:Completed - Do Policy Renewal Exchange
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.DoRenewalPayMethodExchange
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERUK
+Sat Apr 4 01:30:29 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 01:30:30 BST 2015+:Completed - Policy Expire Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERES
+Sat Apr 4 01:38:00 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 01:38:00 BST 2015+:Completed - Policy Expiry Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERBE
+Sat Apr 4 01:45:30 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 01:45:31 BST 2015+:Completed - Policy Expiry Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERFR
+Sat Apr 4 01:53:00 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 01:53:01 BST 2015+:Completed - Policy Expiry Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERIRL
+Sat Apr 4 02:00:30 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 02:00:31 BST 2015+:Completed - Policy Expiry Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYEXPIRELETTERNL
+Sat Apr 4 02:08:00 BST 2015+:Starting - Policy Expiry Letter
+Sat Apr 4 02:08:01 BST 2015+:Completed - Policy Expiry Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PolicyExpireLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERUK
+Sat Apr 4 02:15:31 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:15:31 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERES
+Sat Apr 4 02:23:01 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:23:01 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERBE
+Sat Apr 4 02:30:31 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:30:31 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERFR
+Sat Apr 4 02:38:01 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:38:01 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERIRL
+Sat Apr 4 02:45:31 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:45:31 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting POLICYRENEWALEXCHANGELETTERNL
+Sat Apr 4 02:53:01 BST 2015+:Starting - Policy Renewal Exchange Letter
+Sat Apr 4 02:53:01 BST 2015+:Completed - Policy Renewal Exhange Letter
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.batchjob.policycover.PaymethodUpdateLetterMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting FORMATIONMAILMERGEEXTRACT
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Sat Apr 4 03:00:31 BST 2015+:Starting - Imacs Formation Mail Merge Extract
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Sat Apr 4 03:02:16 BST 2015+:Completed - Imacs Formation Mail Merge Extract
+Null message body; hope that's ok
+Starting FORMATIONMAILMERGEEXTRACT
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Sat Apr 4 03:07:15 BST 2015+:Starting - Imacs Formation Mail Merge Extract
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Sat Apr 4 03:08:07 BST 2015+:Completed - Imacs Formation Mail Merge Extract for Belgium
+Null message body; hope that's ok
+Starting FORMATIONMAILMERGEEXTRACT
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Sat Apr 4 03:13:07 BST 2015+:Starting - Imacs Formation Mail Merge Extract
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.FormationStuff
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Sat Apr 4 03:14:31 BST 2015+:Completed - Imacs Formation Mail Merge Extract
+Null message body; hope that's ok
+Starting FORMATIONMAILMERGEEXTRACTIRL
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Sat Apr 4 03:19:30 BST 2015+:Starting - Imacs Formation Mail Merge Extract
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.mailmerge.formation.PolicyManagementMailMergeExtractor
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.mailmerge.formation.PolicyManagementMailMergeExtractor
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Sat Apr 4 03:19:41 BST 2015+:Completed - Imacs Formation Mail Merge Extract
+Null message body; hope that's ok
+Starting STANDINGORDER
+Using batch size: 1
+Using sleep time: 2
+1
+Checkpoint 1
+No Cash disk to Process !!
+Starting CLAIMSDOMAILMERGE
+Sat Apr 4 03:29:41 BST 2015+:Starting - Do Claims Mail Merge
+Sat Apr 4 03:29:41 BST 2015+:Completed - Do Claims Mail Merge
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACT
+Sat Apr 4 03:37:11 BST 2015+:Starting - Claims Mail Merge Extract
+Sat Apr 4 03:37:12 BST 2015+:Start Uploading to INCDirect Script
+/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/jav!
+ a/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppCli!
+ ent/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/oracle/product/client_11.2.0.3/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/oracle/product/client_11.2.0.3/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imac!
+ sbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/im!
+ acsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/imacsbatch/AppClient/bin:/opt/app/imacsbatch/AppClient/java/jre/bin:/opt/app/imacsbatch/AppClient/java/bin:/opt/app/oracle/product/client_11.2.0.3/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java5/jre/bin:/usr/java5/bin:/usr/local/bin:/usr/local/bin:/usr/local/bin
+Sat Apr 4 03:37:12 BST 2015+:Finish Uploading to INCDirect Script
+mv: 0653-401 Cannot rename *.wrk to /app/imacs-was/share/incdirect/claimsuk/processed//*.wrk:
+             A file or directory in the path name does not exist.
+Summary Report File to be mailed: 
+Null message body; hope that's ok
+Sat Apr 4 03:37:12 BST 2015+:Completed - Imacs Formation Mail Merge Extract
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+/app/imacs-was/batches/IMACS_INCDirectLFTP.sh[24]: lftp:  not found.
+/app/imacs-was/batches/runImacsBatches.sh[5]: /app/imacs-was/share/incdirect/claimsuk/summary:  not found.
+mv: 0653-401 Cannot rename /app/imacs-was/share/incdirect/claimsuk/summary to /app/imacs-was/share/incdirect/claimsuk/archive/summary:
+             A file or directory in the path name does not exist.
+Starting CLAIMSDOMAILMERGENL
+Sat Apr 4 03:44:42 BST 2015+:Starting - Do Claims Mail Merge for NL
+Sat Apr 4 03:44:42 BST 2015+:Completed - Do Claims Mail Merge for NL
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACTNL
+Sat Apr 4 03:52:12 BST 2015+:Starting - Claims Mail Merge Extract for NL
+Summary Report File to be mailed for NL: 
+Null message body; hope that's ok
+Sat Apr 4 03:52:12 BST 2015+:Completed - Imacs Claims Mail Merge Extract for NL
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+/app/imacs-was/batches/runImacsBatches.sh[5]: /app/imacs-was/share/claimsnl/summary:  not found.
+mv: 0653-401 Cannot rename /app/imacs-was/share/claimsnl/summary to /app/imacs-was/share/claimsnl/archive/summary:
+             A file or directory in the path name does not exist.
+Starting CLAIMSDOMAILMERGEIE
+Sat Apr 4 03:59:42 BST 2015+:Starting - Do Claims Mail Merge for IE
+Sat Apr 4 03:59:43 BST 2015+:Completed - Do Claims Mail Merge for IE
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACTIE
+Sat Apr 4 04:07:12 BST 2015+:Starting - Claims Mail Merge Extract for IE
+Summary Report File to be mailed for IE: 
+Null message body; hope that's ok
+Sat Apr 4 04:07:13 BST 2015+:Completed - Imacs Claims Mail Merge Extract for IE
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+/app/imacs-was/batches/runImacsBatches.sh[5]: /app/imacs-was/share/claimsie/summary:  not found.
+mv: 0653-401 Cannot rename /app/imacs-was/share/claimsie/summary to /app/imacs-was/share/claimsie/archive/summary:
+             A file or directory in the path name does not exist.
+Starting CLAIMSDOMAILMERGEES
+Sat Apr 4 04:14:43 BST 2015+:Starting - Do Claims Mail Merge for ES
+Sat Apr 4 04:14:43 BST 2015+:Completed - Do Claims Mail Merge for ES
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACTES
+Sat Apr 4 04:22:14 BST 2015+:Starting - Claims Mail Merge Extract for ES
+Summary Report File to be mailed for ES: 
+Null message body; hope that's ok
+Sat Apr 4 04:22:14 BST 2015+:Completed - Imacs Claims Mail Merge Extract for ES
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+/app/imacs-was/batches/runImacsBatches.sh[5]: /app/imacs-was/share/claimses/summary:  not found.
+mv: 0653-401 Cannot rename /app/imacs-was/share/claimses/summary to /app/imacs-was/share/claimses/archive/summary:
+             A file or directory in the path name does not exist.
+Starting CLAIMSDOMAILMERGEFR
+Sat Apr 4 04:29:44 BST 2015+:Starting - Do Claims Mail Merge for FR
+Sat Apr 4 04:29:45 BST 2015+:Completed - Do Claims Mail Merge for FR
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACTFR
+Sat Apr 4 04:37:14 BST 2015+:Starting - Claims Mail Merge Extract for FR
+Summary Report File to be mailed for FR:  SUMMARY..D171013.T115222
+Sat Apr 4 04:37:15 BST 2015+:Completed - Claims Mail Merge Extract for FR
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.ClaimsMailMergeExtractor
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.ClaimsMailMergeExtractor
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSDOMAILMERGEBE
+Sat Apr 4 04:44:45 BST 2015+:Starting - Do Claims Mail Merge for BE
+Sat Apr 4 04:44:45 BST 2015+:Completed - Do Claims Mail Merge for BE
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting CLAIMSMAILMERGEEXTRACTBE
+Sat Apr 4 04:52:15 BST 2015+:Starting - Claims Mail Merge Extract for BE
+Summary Report File to be mailed for BE:  SUMMARY.221013.T145255
+Sat Apr 4 04:52:16 BST 2015+:Completed - Imacs Claims Mail Merge Extract for BE
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.mailmerge.DoFormationMailMerge
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Starting DOCHECKFORLAPSEDUPGRADESUK
+Sat Apr 4 04:59:46 BST 2015+:Starting - Update Lapsed Upgrades
+Sat Apr 4 04:59:46 BST 2015+:Completed - Lapsed Upgrades Updated Successfully
+ls: 0653-345 /app/imacs-was/lib/*.jar: Permission denied.
+Exception in thread "main" java.lang.NoClassDefFoundError: uk.co.isesolutions.apps.imacs.claims.batchjobs.upgrades.DoCheckForLapsedUpgrades
+Caused by: java.lang.ClassNotFoundException: uk.co.isesolutions.apps.imacs.claims.batchjobs.upgrades.DoCheckForLapsedUpgrades
+        at java.net.URLClassLoader.findClass(URLClassLoader.java:419)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:643)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:300)
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:609)
+Sat Apr 4 05:04:46 BST 2015+:Starting - Bank Validation Report
+
+SQL*Plus: Release 11.2.0.3.0 Production on Sat Apr 4 05:04:46 2015
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.3.0 Production on Sat Apr 4 05:04:46 2015
+
+Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+Sat Apr 4 05:04:46 BST 2015+:Completed - Bank Validation Report
+Starting APPLYIMMEDIATELYCOVERGROUPUPDATEALLCOUNTRIES
+Sat Apr 4 05:07:16 BST 2015+:Starting - ApplyImmediatelyCoverGroupUpdateAllCountries 
+SP2-0734: unknown command beginning "## Added f..." - rest of line ignored.
+SP2-0734: unknown command beginning "## Added f..." - rest of line ignored.
+SUCCESS
+SUCCESS Simple RBPP is Switched On For :IRL
+SUCCESS
+
+PL/SQL procedure successfully completed.
+
+Sat Apr 4 05:07:17 BST 2015+:Completed - ApplyImmediatelyCoverGroupUpdateAllCountries 
+Starting RBPPARTMODELSWOCURRBAND
+Sat Apr 4 05:12:17 BST 2015+:Starting - RBP PartModels Report
+Sat Apr 4 05:12:18 BST 2015+:Completed - RBP PartModels Report
+Starting PARTSWOPARTMODELS
+Sat Apr 4 05:17:17 BST 2015+:Starting - RBP Base Parts Report
+Sat Apr 4 05:17:18 BST 2015+:Completed - RBP Base Parts Report
+Starting E2SAVETIERUPDATEFIXUK
+Sat Apr 4 05:22:18 BST 2015+:Starting - E2Save Tier update fix
+Sat Apr 4 05:24:41 BST 2015+:Completed - E2Save Tier update fix
+Starting E2SAVEH2LUPDATEFIXUK
+Sat Apr 4 05:29:41 BST 2015+:Starting - E2Save High 2 Low Tier update fix
+Creating temporary table TMP_PM_E2S_HL_PRODCOMBINATION...
+Dropping Temporary table TMP_PM_E2S_HL_PRODCOMBINATION...
+Sat Apr 4 05:31:09 BST 2015+:Completed - E2Save High 2 Low Tier update fix
+Starting REPORTDDMANDATEREVOKEDBE
+Sat Apr 4 05:36:09 BST 2015+:Starting - BE REPORTS REVOKED
+Sat Apr 4 05:36:10 BST 2015+:Completed - Report Unprocessed Rejections
+Starting REPORTDDMANDATEREVOKEDUK
+Sat Apr 4 05:41:10 BST 2015+:Starting - UK REPORTS REVOKED
+Sat Apr 4 05:41:25 BST 2015+:Completed - Report Unprocessed Rejections
+Starting REPORTDDMANDATEREVOKEDES
+Sat Apr 4 05:46:25 BST 2015+:Starting - ES REPORTS REVOKED
+Sat Apr 4 05:46:26 BST 2015+:Completed - Report Unprocessed Rejections
+------------------------------------------------
+IMACS Batch Run Completed
+Finished on :+Sat Apr 4 05:48:55 BST 2015

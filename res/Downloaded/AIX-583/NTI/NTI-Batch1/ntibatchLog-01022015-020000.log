@@ -1,0 +1,615 @@
+Starting NTI Policy Batch Jobs
+Started on :+Sun 1 Feb 02:00:00 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Starting NTIFORMATIONMAILMERGEEXTRACTNL
+Sun 1 Feb 02:02:30 2015+:Starting - NTI NL Formation Mail Merge Extract
+  adding: UWRNL001_D01022015.T020300 (deflated 84%)
+Sun 1 Feb 02:03:09 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:03:10 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:03:10 2015+:Completed - NTI NL Formation Mail Merge Extract
+Starting NUMAILMERGEEXTRACTUK
+Sun 1 Feb 02:08:09 2015+:Starting - NU UK Mail Merge Extract
+  adding: NUUK001_D01022015.T021131 (deflated 79%)
+Sun 1 Feb 02:12:28 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:12:29 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:12:29 2015+:Completed - NU UK Mail Merge Extract
+Starting NUMAILMERGEEXTRACTTPUK
+Sun 1 Feb 02:17:28 2015+:Starting - NU TPUK Mail Merge Extract
+  adding: NUUK001_D01022015.T021731 (deflated 41%)
+Sun 1 Feb 02:17:31 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:17:32 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:17:32 2015+:Completed - NU TPUK Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTUK
+Sun 1 Feb 02:22:31 2015+:Starting - NTI UK Formation Mail Merge Extract
+  adding: UWRUK001_D01022015.T022233 (deflated 43%)
+Sun 1 Feb 02:22:34 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:22:35 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:22:35 2015+:Completed - NTI UK Formation Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTTPUK
+Sun 1 Feb 02:27:34 2015+:Starting - NTI TPUK Formation Mail Merge Extract
+mv: 0653-401 Cannot rename *BSR to ../archive/*BSR:
+	     A file or directory in the path name does not exist.
+mv: 0653-401 Cannot rename * to ../archive/*:
+	     A file or directory in the path name does not exist.
+Sun 1 Feb 02:27:36 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group           0 Feb  1 02:26 UWRLIST1_D010215.T022736
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:27:37 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:27:37 2015+:Completed - NTI TPUK Formation Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTIRL
+Sun 1 Feb 02:32:37 2015+:Starting - NTI UK Formation Mail Merge Extract
+  adding: UWRIR001_D01022015.T023239 (deflated 45%)
+  adding: UWRIR001_D01022015.T023244 (deflated 83%)
+Sun 1 Feb 02:32:46 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         528 Feb  1 02:31 UWRIR001_D01022015.T023239
+-rw-rw-rw-   1 user     group       12208 Feb  1 02:31 UWRIR001_D01022015.T023244
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group           0 Feb  1 02:26 UWRLIST1_D010215.T022736
+-rw-rw-rw-   1 user     group          54 Feb  1 02:31 UWRLIST1_D010215.T023246
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:32:47 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:32:47 2015+:Completed - NTI IE Formation Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTES
+Sun 1 Feb 02:37:47 2015+:Starting - NTI ES Formation Mail Merge Extract
+  adding: UWRES001_D01022015.T023749 (stored 0%)
+  adding: UWRES001_D01022015.T023808 (deflated 84%)
+Sun 1 Feb 02:38:13 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Feb  1 02:37 UWRES001_D01022015.T023749
+-rw-rw-rw-   1 user     group       51768 Feb  1 02:37 UWRES001_D01022015.T023808
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         528 Feb  1 02:31 UWRIR001_D01022015.T023239
+-rw-rw-rw-   1 user     group       12208 Feb  1 02:31 UWRIR001_D01022015.T023244
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group           0 Feb  1 02:26 UWRLIST1_D010215.T022736
+-rw-rw-rw-   1 user     group          54 Feb  1 02:31 UWRLIST1_D010215.T023246
+-rw-rw-rw-   1 user     group          54 Feb  1 02:37 UWRLIST1_D010215.T023813
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:38:14 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:38:14 2015+:Completed - NTI ES Formation Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTBE
+Sun 1 Feb 02:43:13 2015+:Starting - NTI Belgium Formation Mail Merge Extract
+/app/nti-was:/app/imacs-was/lib/3rdPartyAPI.jar:/app/imacs-was/lib/ant.jar:/app/imacs-was/lib/backport-util-concurrent.2.0.01.jar:/app/imacs-was/lib/bfg.jar:/app/imacs-was/lib/CalendarBean.jar:/app/imacs-was/lib/ClaimsAppClient.jar:/app/imacs-was/lib/ClaimsRefundsEJB.jar:/app/imacs-was/lib/ClaimsRefundsShared.jar:/app/imacs-was/lib/commons-dbutils-1.0.jar:/app/imacs-was/lib/CommonServicesEJB.jar:/app/imacs-was/lib/CommonServicesShared.jar:/app/imacs-was/lib/commons-httpclient-2.0.jar:/app/imacs-was/lib/commons-lang-2.0.jar:/app/imacs-was/lib/commons-logging.jar:/app/imacs-was/lib/dom-loader.jar:/app/imacs-was/lib/edtftpj-1.4.8.jar:/app/imacs-was/lib/GCPEJB.jar:/app/imacs-was/lib/GCPShared.jar:/app/imacs-was/lib/GenericValidationServiceSharedNew.jar:/app/imacs-was/lib/gnu-regexp-1.1.4.jar:/app/imacs-was/lib/HTTPClient.jar:/app/imacs-was/lib/IMACSAppClient.jar:/app/imacs-was/lib/IMACSClaimRefundsAdapter.jar:/app/imacs-was/lib/IMACSEJB.jar:/app/imacs-was/lib/IMACSMessagingServicesMDB.jar:/app/imacs-was/lib/IMACSServerLibraries.jar:/app/imacs-was/lib/IMACSShared.jar:/app/imacs-was/lib/jbcl.jar:/app/imacs-was/lib/jdom-b8.jar:/app/imacs-was/lib/jgl3.1.0.jar:/app/imacs-was/lib/jhall.jar:/app/imacs-was/lib/jms.jar:/app/imacs-was/lib/JSX0.9.6.0.jar:/app/imacs-was/lib/junit-3.8.1.jar:/app/imacs-was/lib/jvftp.jar:/app/imacs-was/lib/log4j.jar:/app/imacs-was/lib/ojdbc14.jar:/app/imacs-was/lib/PieServices-BE-EJB.jar:/app/imacs-was/lib/PieServices-DE-EJB.jar:/app/imacs-was/lib/PieServices-ES-EJB.jar:/app/imacs-was/lib/PieServices-FR-EJB.jar:/app/imacs-was/lib/PieServices-GB-EJB.jar:/app/imacs-was/lib/PieServices-IE-EJB.jar:/app/imacs-was/lib/PieServices-NL-EJB.jar:/app/imacs-was/lib/PieServicesServer.jar:/app/imacs-was/lib/PieServicesShared.jar:/app/imacs-was/lib/PieServices-TPUK-EJB.jar:/app/imacs-was/lib/poi-2.5.1-final-20040804.jar:/app/imacs-was/lib/rowset.jar:/app/imacs-was/lib/RuleEngineEJB.jar:/app/imacs-was/lib/RuleEngineShared.jar:/app/imacs-was/lib/SharedBeans.jar:/app/imacs-was/lib/SharedLibraries.jar
+  adding: UWRBE001_D01022015.T024320 (deflated 85%)
+Sun 1 Feb 02:43:23 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group       11464 Feb  1 02:42 UWRBE001_D01022015.T024320
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Feb  1 02:37 UWRES001_D01022015.T023749
+-rw-rw-rw-   1 user     group       51768 Feb  1 02:37 UWRES001_D01022015.T023808
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         528 Feb  1 02:31 UWRIR001_D01022015.T023239
+-rw-rw-rw-   1 user     group       12208 Feb  1 02:31 UWRIR001_D01022015.T023244
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group           0 Feb  1 02:26 UWRLIST1_D010215.T022736
+-rw-rw-rw-   1 user     group          54 Feb  1 02:31 UWRLIST1_D010215.T023246
+-rw-rw-rw-   1 user     group          54 Feb  1 02:37 UWRLIST1_D010215.T023813
+-rw-rw-rw-   1 user     group          27 Feb  1 02:42 UWRLIST1_D010215.T024323
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:43:24 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:43:24 2015+:Completed - NTI BE Formation Mail Merge Extract
+Starting NTIFORMATIONMAILMERGEEXTRACTFR
+Sun 1 Feb 02:48:23 2015+:Starting - NTI France Formation Mail Merge Extract
+  adding: UWRFR001_D01022015.T024826 (deflated 71%)
+Sun 1 Feb 02:48:27 2015+:Start Uploading to INCDirect Script
+/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/WebSphere7/AppClient/bin:/opt/app/WebSphere7/AppClient/java/jre/bin:/opt/app/WebSphere7/AppClient/java/bin:/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+drwxrw-rw-   1 user     group           0 Jan 31 07:09 Archive
+-rw-rw-rw-   1 user     group        7280 Jan 30 21:26 CLMLTRS.D300115.T213034.wrk
+-rw-rw-rw-   1 user     group        5232 Jan 31 05:50 CLMLTRS.D310115.T055558.wrk
+-rw-rw-rw-   1 user     group        6200 Jan 31 21:29 CLMLTRS.D310115.T213005.wrk
+-rw-rw-rw-   1 user     group       40544 Jan 31 21:14 CPILTRSE.D310115.T211512.wrk
+-rw-rw-rw-   1 user     group         680 Jan 31 21:14 CPILTRSG.D310115.T211512.wrk
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Duplicate Policies
+-rw-rw-rw-   1 user     group           0 Jan 31 04:00 FORMATION_DISK
+-rw-rw-rw-   1 user     group          77 Sep 15  2014 File_Move.bat
+drwxrw-rw-   1 user     group           0 Aug 16  2013 GS
+drwxrw-rw-   1 user     group           0 Jun 14  2013 Go Policy
+drwxrw-rw-   1 user     group           0 Feb  4  2013 High Risks
+-rw-rw-rw-   1 user     group          23 Dec 17  2007 LIST.BAT
+drwxrw-rw-   1 user     group           0 Jan 23 16:08 Lifeline Admin
+drwxrw-rw-   1 user     group           0 Jan 30 06:33 Lifeline Claims
+drwxrw-rw-   1 user     group           0 Jul 25  2013 Lifeline Complaints
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Refunds
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Lifeline Stores
+drwxrw-rw-   1 user     group           0 Jul 25  2014 Lifeline Welcome
+-rw-rw-rw-   1 user     group         488 Oct 22  2013 MOVE MTIS FILES HERE BY 9AM.lnk
+-rw-rw-rw-   1 user     group       99792 Feb  1 02:02 NUUK001_D01022015.T020309
+-rw-rw-rw-   1 user     group      717760 Feb  1 02:11 NUUK001_D01022015.T021131
+-rw-rw-rw-   1 user     group         528 Feb  1 02:16 NUUK001_D01022015.T021731
+-rw-rw-rw-   1 user     group       92720 Jan 31 01:58 NUUK001_D31012015.T020319
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Policy Decline
+drwxrw-rw-   1 user     group           0 Jan 30 04:41 RBS_Claims
+drwxrw-rw-   1 user     group           0 Jan 30 04:16 RBS_Welcome
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Rogue Insurance
+-rw-rw-rw-   1 user     group       47104 Jan  2 08:50 Thumbs.db
+drwxrw-rw-   1 user     group           0 Feb  4  2013 Total Loss
+-rw-rw-rw-   1 user     group       11464 Feb  1 02:42 UWRBE001_D01022015.T024320
+-rw-rw-rw-   1 user     group        8704 Jan 31 02:39 UWRBE001_D31012015.T024356
+-rw-rw-rw-   1 user     group        2944 Jan 31 03:57 UWRBE001_D31012015.T040233
+-rw-rw-rw-   1 user     group         232 Feb  1 02:37 UWRES001_D01022015.T023749
+-rw-rw-rw-   1 user     group       51768 Feb  1 02:37 UWRES001_D01022015.T023808
+-rw-rw-rw-   1 user     group         232 Jan 31 02:33 UWRES001_D31012015.T023815
+-rw-rw-rw-   1 user     group       56688 Jan 31 02:33 UWRES001_D31012015.T023842
+-rw-rw-rw-   1 user     group        1408 Feb  1 02:47 UWRFR001_D01022015.T024826
+-rw-rw-rw-   1 user     group         232 Jan 31 02:44 UWRFR001_D31012015.T024901
+-rw-rw-rw-   1 user     group         720 Jan 31 02:44 UWRFR001_D31012015.T024903
+-rw-rw-rw-   1 user     group         528 Feb  1 02:31 UWRIR001_D01022015.T023239
+-rw-rw-rw-   1 user     group       12208 Feb  1 02:31 UWRIR001_D01022015.T023244
+-rw-rw-rw-   1 user     group         232 Jan 31 02:28 UWRIR001_D31012015.T023304
+-rw-rw-rw-   1 user     group       12080 Jan 31 02:28 UWRIR001_D31012015.T023310
+-rw-rw-rw-   1 user     group          27 Feb  1 02:01 UWRLIST1_D010215.T020309
+-rw-rw-rw-   1 user     group          27 Feb  1 02:21 UWRLIST1_D010215.T022234
+-rw-rw-rw-   1 user     group           0 Feb  1 02:26 UWRLIST1_D010215.T022736
+-rw-rw-rw-   1 user     group          54 Feb  1 02:31 UWRLIST1_D010215.T023246
+-rw-rw-rw-   1 user     group          54 Feb  1 02:37 UWRLIST1_D010215.T023813
+-rw-rw-rw-   1 user     group          27 Feb  1 02:42 UWRLIST1_D010215.T024323
+-rw-rw-rw-   1 user     group          27 Feb  1 02:47 UWRLIST1_D010215.T024827
+-rw-rw-rw-   1 user     group          54 Jan 31 01:58 UWRLIST1_D310115.T020332
+-rw-rw-rw-   1 user     group          27 Jan 31 02:18 UWRLIST1_D310115.T022259
+-rw-rw-rw-   1 user     group           0 Jan 31 02:23 UWRLIST1_D310115.T022801
+-rw-rw-rw-   1 user     group          54 Jan 31 02:28 UWRLIST1_D310115.T023312
+-rw-rw-rw-   1 user     group          54 Jan 31 02:33 UWRLIST1_D310115.T023850
+-rw-rw-rw-   1 user     group          27 Jan 31 02:39 UWRLIST1_D310115.T024359
+-rw-rw-rw-   1 user     group          54 Jan 31 02:44 UWRLIST1_D310115.T024904
+-rw-rw-rw-   1 user     group          27 Jan 31 03:57 UWRLIST1_D310115.T040234
+-rw-rw-rw-   1 user     group       81944 Feb  1 02:01 UWRNL001_D01022015.T020300
+-rw-rw-rw-   1 user     group         680 Jan 31 01:58 UWRNL001_D31012015.T020232
+-rw-rw-rw-   1 user     group       81304 Jan 31 01:58 UWRNL001_D31012015.T020319
+-rw-rw-rw-   1 user     group       14360 Jan 31 03:55 UWRPT001_D31012015.T040022
+-rw-rw-rw-   1 user     group        8216 Jan 31 04:00 UWRSE001_D31012015.T040501
+-rw-rw-rw-   1 user     group         528 Feb  1 02:21 UWRUK001_D01022015.T022233
+-rw-rw-rw-   1 user     group         536 Jan 31 02:18 UWRUK001_D31012015.T022257
+-rw-rw-rw-   1 user     group         422 Jan 22 05:01 deleteAEGzip.bat
+bye
+Sun 1 Feb 02:48:27 2015+:Finish Uploading to INCDirect Script
+Sun 1 Feb 02:48:27 2015+:Completed - NTI FR Formation Mail Merge Extract
+Starting AUTOPOLICYATTACH
+Sun 1 Feb 02:53:27 2015+:Starting - AddInsurance_UK.sh 
+Sun 1 Feb 03:04:26 2015+:Completed - AddInsurance_UK.sh 
+------------------------------------------------
+NTI Batch Run Completed
+Finished on :+Sun 1 Feb 03:09:26 2015

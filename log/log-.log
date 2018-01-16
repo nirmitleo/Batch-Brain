@@ -1,0 +1,13 @@
+2015-04-06 01:04:53 DEBUG MainFrame:226 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- log file downloaded!!
+2015-04-06 01:04:53 DEBUG MainFrame:230 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- Starting the process of loading the batch names
+2015-04-06 01:04:53 ERROR BatchReader:55 - Location of the file = ./res/Resources/AIX-583/IMACS/IMACS-Batch1/IMACS-Batch1/imacsbatchLog-05022015-194824.log||||File not found at the required place!
+2015-04-06 01:04:54 ERROR BatchReader:56 - .\res\Resources\AIX-583\IMACS\IMACS-Batch1\IMACS-Batch1\imacsbatchLog-05022015-194824.log (The system cannot find the path specified)
+2015-04-06 01:04:54 DEBUG MainFrame:232 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- Finished the process of loading the batch names
+2015-04-06 01:04:54 DEBUG MainFrame:235 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- Starting the process of loading the log lines
+2015-04-06 01:04:54 ERROR LogReader:57 - Location of the file = ./res/Resources/AIX-583/IMACS/IMACS-Batch1/IMACS-Batch1/imacsbatchLog-05022015-194824.log||||File not found at the required place!
+2015-04-06 01:04:54 ERROR LogReader:58 - .\res\Resources\AIX-583\IMACS\IMACS-Batch1\IMACS-Batch1\imacsbatchLog-05022015-194824.log (The system cannot find the path specified)
+2015-04-06 01:04:54 DEBUG MainFrame:237 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- Finished the process of loading the log lines
+2015-04-06 01:04:54 DEBUG MainFrame:240 - Wrapper Batch Type = AIX583_IMACSBATCH1||Wrapper File Name = imacsbatchLog-05022015-194824.log- Starting the process of processing the log file
+2015-04-06 01:04:54 DEBUG LogProcessor:17 - Wrapper Batch Type for Log Processing = AIX583_IMACSBATCH1
+2015-04-06 01:04:54 DEBUG LogProcessor:51 - Batch List = null
+2015-04-06 01:04:54 DEBUG LogProcessor:52 - Log Lines = null

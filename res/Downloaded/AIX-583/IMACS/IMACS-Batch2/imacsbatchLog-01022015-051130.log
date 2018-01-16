@@ -1,0 +1,507 @@
+Starting IMACS Policy Batch Jobs - Belgacom 
+Started on :+Sun 1 Feb 05:11:30 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Clearing eventlog and locking...
+Starting DOPOLICYRENEWALWTBE
+Sun 1 Feb 05:19:05 2015+:Starting - Do Policy Renewal
+Sun 1 Feb 05:19:34 2015+:Completed - Do Policy Renewal
+Starting DOPCSTATUSUPDATEWTBE
+Sun 1 Feb 05:24:34 2015+:Starting - Do PC Status Update
+Sun 1 Feb 05:25:14 2015+:Completed - Do PC Status Update
+Starting WTBERUNDOMLOADER
+Sun 1 Feb 05:30:14 2015+:Starting - Run DOM Loader
+Sun 1 Feb 05:30:17 2015+:Completed -  Run DOM Loaderfor Belgacom
+Starting RECEIVEDDPAYMENTRESPONSEWTBE
+Sun 1 Feb 05:35:17 2015+:Starting - Receive WTBE DD Payment Responses
+Sun 1 Feb 05:35:19 2015+:Completed - Receive WTBE DD Payment Responses
+Starting CREATEDDSETUPREQUESTSWtBE
+Sun 1 Feb 05:40:19 2015+:Starting - Create WTBE DD Setup Requests
+Sun 1 Feb 05:53:46 2015+:Completed - Create WTBE DD Setup Requests
+Starting DOPCSTATUSUPDATEBE
+Sun 1 Feb 05:58:46 2015+:Starting - Do PC Status Update
+Sun 1 Feb 05:59:36 2015+:Completed - Do PC Status Update
+Starting DOPOLICYRENEWALEXCHANGEWTBE
+Sun 1 Feb 06:04:36 2015+:Starting - Do Policy Renewal Exchange
+Sun 1 Feb 06:04:38 2015+:Completed - Do Policy Renewal Exchange
+Starting POLICYEXPIRELETTERWTBE
+Sun 1 Feb 06:09:38 2015+:Starting - Policy Expiry Letter
+Sun 1 Feb 06:10:01 2015+:Completed - Policy Expiry Letter
+Starting POLICYRENEWALEXCHANGELETTERWTBE
+Sun 1 Feb 06:15:01 2015+:Starting - Policy Renewal Exchange Letter
+Sun 1 Feb 06:15:03 2015+:Completed - Policy Renewal Exhange Letter
+Starting FORMATIONMAILMERGEEXTRACT
+Sun 1 Feb 06:20:03 2015+:Starting - Imacs Formation Mail Merge Extract
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:20:04 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:20:04 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:20:04 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:05 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:20:16 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:20:16 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:20:16 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:17 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:20:28 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:20:29 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:20:29 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:29 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:20:40 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:20:41 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:20:41 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:41 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:20:52 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:20:53 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:20:53 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:20:53 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:21:04 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:21:05 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:21:05 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:05 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:21:16 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:21:17 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:21:17 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:17 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:21:28 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:21:29 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:21:29 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:29 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:21:40 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:21:41 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:21:41 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:41 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:21:52 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:21:53 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:21:53 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:21:53 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:22:04 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:22:05 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:22:05 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:05 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:22:16 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:22:17 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:22:17 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:17 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:22:28 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:22:29 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:22:29 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:29 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:22:40 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:22:41 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:22:41 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:41 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:22:52 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:22:53 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:22:53 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:22:53 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:23:04 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:23:05 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:23:05 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:05 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:23:16 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:23:17 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:23:17 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:17 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:23:28 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:23:29 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:23:29 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:29 null null
+SEVERE: javaAccessorNotSet
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+ise.loglog: [WARN] [Config] Failed to load bundled properties: /ise-client.props
+01-Feb-2015 06:23:40 null null
+WARNING: security.JSAS0631E
+01-Feb-2015 06:23:41 null null
+SEVERE: security.JSAS0629E
+01-Feb-2015 06:23:41 null null
+SEVERE: security.JSAS1478W
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+01-Feb-2015 06:23:41 null null
+SEVERE: javaAccessorNotSet
+No zip and ftp required in case of Belgacom. So return from script.
+Sun 1 Feb 06:23:51 2015+:Completed - Imacs Formation Mail Merge Extract for Belgacom
+Null message body; hope that's ok
+Starting CLAIMSDOMAILMERGEWTBE
+Sun 1 Feb 06:28:51 2015+:Starting - Do Claims Mail Merge for WTBE
+Sun 1 Feb 06:28:56 2015+:Completed - Do Claims Mail Merge for WTBE
+Starting CLAIMSMAILMERGEEXTRACTBE
+Sun 1 Feb 06:33:56 2015+:Starting - Claims Mail Merge Extract for WTBE
+Summary Report File to be mailed for WTBE:  SUMMARY.010215.T063358
+Sun 1 Feb 06:33:58 2015+:Completed - Imacs Claims Mail Merge Extract for WTBE
+Starting REPORTDDMANDATEREVOKEDWTBE
+Sun 1 Feb 06:38:58 2015+:Starting - WTBE REPORTS REVOKED for Belgacom
+Sun 1 Feb 06:39:00 2015+:Completed - Report Unprocessed Rejections (WTBE REPORTS REVOKED) for Belgacom
+------------------------------------------------
+IMACS Batch Run Belgacom Completed
+Finished on :+Sun 1 Feb 06:41:30 2015

@@ -1,0 +1,11 @@
+Starting NTI Policy Batch Jobs
+Started on :+Sun 1 Feb 23:00:00 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Starting POLICYUPDATEPROPOSEDTOCURRENTRBSUK
+Sun 1 Feb 23:02:30 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 23:02:54 2015+:Completed - Update PROPOSED Policy To CURRENT
+------------------------------------------------
+ RBS NTI Batch Run Completed
+Finished on :+Sun 1 Feb 23:05:24 2015

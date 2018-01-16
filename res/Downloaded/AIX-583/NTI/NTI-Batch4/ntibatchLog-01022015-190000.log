@@ -1,0 +1,32 @@
+Starting NTI Policy Batch Jobs
+Started on :+Sun 1 Feb 19:00:00 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Clearing eventlog and locking...
+Starting POLICYUPDATEPROPOSEDTOCURRENTNL
+Sun 1 Feb 19:07:35 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:08:32 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTUK
+Sun 1 Feb 19:13:32 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:15:16 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTTPUK
+Sun 1 Feb 19:20:16 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:20:31 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTIRL
+Sun 1 Feb 19:25:31 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:26:36 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTES
+Sun 1 Feb 19:31:36 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:32:40 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTBE
+Sun 1 Feb 19:37:40 2015+:Starting - Update PROPOSED Policy To CURRENT
+Sun 1 Feb 19:38:34 2015+:Completed - Update PROPOSED Policy To CURRENT
+Starting POLICYUPDATEPROPOSEDTOCURRENTBE
+Sun 1 Feb 19:43:33 2015+:Starting - Update PROPOSED Policy To CURRENT
+/opt/app/WebSphere7/AppClient/java/jre
+nti home:/app/nti-was
+Sun 1 Feb 19:44:19 2015+:Completed - Update PROPOSED Policy To CURRENT
+------------------------------------------------
+NTI Batch Run Completed
+Finished on :+Sun 1 Feb 19:46:49 2015

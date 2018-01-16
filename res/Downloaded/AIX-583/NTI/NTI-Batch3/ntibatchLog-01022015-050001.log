@@ -1,0 +1,14 @@
+Starting NTI Policy Batch Jobs - Belgacom 
+Started on :+Sun 1 Feb 05:00:01 2015
+Initialising Environment
+Starting Batch Job execution .....
+------------------------------------------------
+Clearing eventlog and locking...
+Starting POLICYUPDATEPROPOSEDTOCURRENTWTBE
+Sun 1 Feb 05:07:35 2015+:Starting - Update PROPOSED Policy To CURRENT for Belgacom
+/opt/app/WebSphere7/AppClient/java/jre
+nti home:/app/nti-was
+Sun 1 Feb 05:09:00 2015+:Completed - Update PROPOSED Policy To CURRENT for Belgacom
+------------------------------------------------
+NTI Batch Run -Belgacom Completed
+Finished on :+Sun 1 Feb 05:11:29 2015

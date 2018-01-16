@@ -1,0 +1,14 @@
+Starting AutoPolicy Report Batch Jobs
+Started on :+Sun 1 Feb 08:00:00 2015
+Initialising Environment
+Starting AutoPolicy Report....
+------------------------------------------------
+Starting Auto Policy Attach Report Before Batch job
+Sun 1 Feb 08:00:00 2015+:Starting - Auto Policy Attach Report Before batch job 
+Sun 1 Feb 08:00:01 2015+:Completed - Auto Policy Attach Report Before batch job
+Starting Auto Policy Attach Report After Batch job
+Sun 1 Feb 08:00:01 2015+:Starting - Auto Policy Attach Report After batch job 
+Sun 1 Feb 08:00:02 2015+:Completed - Auto Policy Attach Report After batch job
+------------------------------------------------
+AutoPolicy Reports Run Completed
+Finished on :+Sun 1 Feb 08:00:02 2015

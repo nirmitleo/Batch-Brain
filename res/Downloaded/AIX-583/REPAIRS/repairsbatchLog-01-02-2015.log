@@ -1,0 +1,70 @@
+Starting Customer Communication Batch Jobs
+Started on :+Sun 1 Feb 01:00:00 2015
+Initialising Environment
+Starting Customer Communication Report....
+------------------------------------------------
+Starting CUSTOMER COMMUNICATION EMAIL
+Sun 1 Feb 01:00:00 2015+:Starting - Repairs Customer Communications Emails report
+  adding: opt/app/repairs/ccreports/output/CC_EMAIL_01-02-2015.csv (deflated 69%)
+Sun 1 Feb 01:06:59 2015+:Start Uploading to Easylink Script
+/opt/app/oracle/product/11.2.0.3_client/bin:/usr/bin:/etc:/usr/sbin:/usr/ucb:/home/morrisr/bin:/usr/bin/X11:/sbin:/usr/local/bin:/usr/java141/jre/bin:/usr/java141/bin:/usr/local/bin
+CC_EMAIL_01-02-2015.csv
+checkpoint for ftp
+drwxr-xr-x 1 owner group            1 Jan  9 10:09 New folder
+-rw-r--r-- 1 owner group         1693 Jan 22 12:31 cemece.csv
+-rw-r--r-- 1 owner group           16 Aug  6 03:07 suppress.txt
+-rw-r--r-- 1 owner group          532 Jan  5 12:29 voice1.csv
+-rw-r--r-- 1 owner group          123 Jul 30 04:01 voice2.csv
+-rw-r--r-- 1 owner group          627 Jul 30 03:57 voice2.zip
+-rw-r--r-- 1 owner group         1346 Mar 31 11:10 CC_VR_11-02-20101.csv
+-rw-r--r-- 1 owner group        17080 Feb 18 03:29 Text file from CPW.csv
+-rw-r--r-- 1 owner group         2535 Mar 11 04:07 CC_SMS_REMINDERSTATUS_01-03-2011.csv
+-rw-r--r-- 1 owner group         2387 Mar 23 11:52 Haseeb.zip
+-rw-r--r-- 1 owner group         3635 Jun 17 02:08 CC_SMS_17-06-2011.txt
+-rw-r--r-- 1 owner group          591 Jun 22 05:39 CC_VR_36-6-2011.csv
+-rw-r--r-- 1 owner group          516 Jun 27 06:03 CC_SMS_38_01-01-2011.csv
+-rw-r--r-- 1 owner group           39 Sep 27 09:57 Test.txt
+-rw-r--r-- 1 owner group            0 Oct  3 03:34 CC_VR_03-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct  5 04:40 CC_EMAIL_05-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct  5 04:56 CC_SMS_05-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct  5 05:57 CC_VR_05-10-2011.csv
+-rw-r--r-- 1 owner group          494 Aug 27 12:21 CC_VR_2_27-08-2012.csv
+-rw-r--r-- 1 owner group            0 Oct  6 07:24 CC_SMS_06-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct  6 08:13 CC_VR_06-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 10 02:11 CC_EMAIL_10-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 10 02:27 CC_SMS_10-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 10 03:31 CC_VR_10-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 11 02:10 CC_EMAIL_11-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 11 02:26 CC_SMS_11-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 11 03:21 CC_VR_11-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 12 02:11 CC_EMAIL_12-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 12 02:29 CC_SMS_12-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 12 03:24 CC_VR_12-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 13 02:11 CC_EMAIL_13-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 13 02:28 CC_SMS_13-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 13 03:29 CC_VR_13-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 14 02:10 CC_EMAIL_14-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 14 02:25 CC_SMS_14-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 14 03:20 CC_VR_14-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 15 02:10 CC_EMAIL_15-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 15 02:25 CC_SMS_15-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 15 03:19 CC_VR_15-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 19 02:10 CC_EMAIL_19-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 21 02:10 CC_EMAIL_21-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 25 02:09 CC_EMAIL_25-10-2011.csv
+-rw-r--r-- 1 owner group            0 Oct 25 02:24 CC_SMS_25-10-2011.csv
+-rw-r--r-- 1 owner group         1898 Nov 14 04:56 VOICE_13-11-2011.csv
+-rw-r--r-- 1 owner group         1898 Nov 14 05:42 CC_VR_13-11-2011kay.csv
+-rw-r--r-- 1 owner group       491505 Nov 23 11:34 CC_VR_23-11-2011..csv
+-rw-r--r-- 1 owner group          516 Jan 30 04:12 CC_SMS_30_01_2012.csv
+-rw-r--r-- 1 owner group          557 Jan 30 04:31 CC_VR_30-01-2012.txt
+-rw-r--r-- 1 owner group            4 Feb 22 12:01 test1.txt
+-rw-r--r-- 1 owner group        12916 Mar  5 12:16 CC_SMS_05_03_2012.csv
+-rw-r--r-- 1 owner group         1636 Aug 16 11:07 CC_EMAIL_16-082012.csv
+-rw-r--r-- 1 owner group          547 Oct 31 06:22 CC_VOICE_31-10-2012-test.csv
+bye
+Sun 1 Feb 01:07:01 2015+:Finish Uploading to Easylink Script
+Rescheduling at 3:00 AM done successfully.
+Sun 1 Feb 01:07:01 2015+:Completed - Repairs Customer Communications Emails report
+Starting CUSTOMER COMMUNICATION SMS
+Sun 1 Feb 01:07:01 2015+:Starting - Repairs Customer Communications SMS report
